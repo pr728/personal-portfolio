@@ -63,7 +63,7 @@ a :hover{
      
 }
 .rightsection{
-    background-image:"image.jpg";
+    background-image:"image.jpeg";
     background-size: cover;
     width:50%;
 }
@@ -203,8 +203,3 @@ h2{
 h1:hover{
     text-decoration: underline;
 }
-
-
-
-
-
